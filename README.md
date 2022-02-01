@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nullbr
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning Ruby on Rails
-<!--- 💞️ I’m looking to collaborate on ---> 
 - 📫 How to reach me linkedin.com/in/bruno-mariano-leite
+<!--- 💞️ I’m looking to collaborate on ---> 
 
 <!---
 nullbr/nullbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
