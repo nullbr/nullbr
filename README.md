@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 ##
 <div align="center">
   <a href="https://github.com/nullbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/>
 </div>
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg">
