@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @nullbr
-- 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning Ruby on Rails and Laravel
-- 📫 How to reach me linkedin.com/in/bruno-mariano-leite
+- 👋 Hi, I’m Bruno Mariano Leite
+- 👀 I’m studying Computer Science and working towards being a Full-Stack developer
+- 🌱 I’m currently learning Ruby on Rails, Laravel and Docker
+- 📫 How to reach me at:
+<div>
+  
+  <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+ </div>
 <!---
 nullbr/nullbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -10,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/nullbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbacellar&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"><br>
@@ -24,11 +29,4 @@ You can click the Preview link to take a look at your changes.
 
   ##
  
- <div>
-  
-  <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- </div>
- 
- ![Snake animation](https://github.com/viniciusbacellar/viniciusbacellar/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/nullbr/nullbr/blob/main/.github/github-contribution-grid-snake.svg)
