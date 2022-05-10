@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Bruno Mariano Leite
-- 👀 I’m studying Computer Science and working towards being a Full-Stack developer
-- 🌱 I’m currently learning Ruby on Rails, Laravel and Docker
-- 📫 Reach me at:
+
+
+```ruby
+brunoLeite = { 
+  greetings: 'Hi there!',
+  currentJob: 'Software Maintainer',
+  stacks: ['Ruby', 'PHP', 'Javascript'],
+  studying: 'Computer Science and working towards being a Full-Stack developer',
+  status: {intermediate: 'Ruby On Rails', beginner: 'Laravel', beginner: 'Docker'},
+  languages: ['Portuguese', 'English', 'Spanish']
+}
+
+```
+
 <div align="center">
+  
+  <p>Contact Info:</p>
   
   <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
