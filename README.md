@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/>
 </div>
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg">
-  <img align="center" alt="Bruno-RoR" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg">
+  <img align="center" alt="Bruno-Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Bruno-RoR" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruno-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="Bruno-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg">
+   <img align="center" alt="Bruno-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
