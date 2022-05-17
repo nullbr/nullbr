@@ -19,16 +19,12 @@ brunoLeite = {
   <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- </div>
-<!---
-nullbr/nullbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
 
 ##
 <div align="center">
   <a href="https://github.com/nullbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6&PAT=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/>
 </div>
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
