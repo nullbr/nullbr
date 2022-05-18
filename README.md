@@ -13,21 +13,25 @@ brunoLeite = {
 ```
 
 <div align="center">
-  
-  <p>Contact Info:</p>
-  
+  <h3>Contact Info</h3>
   <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
 
 ##
 <div align="center">
   <a href="https://github.com/nullbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/></a>
-</div><br>
+</div>
+
+##
+<div align="center">
+  <a href="https://wakatime.com/@9450441a-ff7b-4805-b841-897d35ef3820"><img src="https://wakatime.com/badge/user/9450441a-ff7b-4805-b841-897d35ef3820.svg" alt="Total time coded since May 18 2022" /></a>
+</div>
+
+##
 <div align="center" style="display: inline_block">
-  <p>Languages & Tools</p>
+  <h3>Languages & Tools</h3>
   <a href="https://rubyonrails.org" target="_blank"><img alt="Bruno-Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="Bruno-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
@@ -39,3 +43,4 @@ brunoLeite = {
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </div>
+
