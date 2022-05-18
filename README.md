@@ -24,9 +24,9 @@ brunoLeite = {
 ##
 <div align="center">
   <a href="https://github.com/nullbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/>
-</div>
-<div align="center" style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/></a>
+</div><br>
+<div align="center" style="display: inline_block">
   <p>Languages & Tools</p>
   <a href="https://rubyonrails.org" target="_blank"><img alt="Bruno-Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Bruno-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
