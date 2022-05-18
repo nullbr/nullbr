@@ -23,8 +23,6 @@ brunoLeite = {
   <a href="https://github.com/nullbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/></a>
 </div>
-
-##
 <div align="center">
   <a href="https://wakatime.com/@9450441a-ff7b-4805-b841-897d35ef3820"><img src="https://wakatime.com/badge/user/9450441a-ff7b-4805-b841-897d35ef3820.svg" alt="Total time coded since May 18 2022" /></a>
 </div>
