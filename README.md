@@ -29,7 +29,9 @@ brunoLeite = {
 
 ##
 <div align="center" style="display: inline_block">
-  <h3>Languages & Tools</h3>
+
+  <h3>Toolbelt <img src="https://cdn-icons-png.flaticon.com/512/5238/5238554.png" alt="Tool Belt" width="30" height="30"></h3>
+  <br>
   <a href="https://rubyonrails.org" target="_blank"><img alt="Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.php.net/download-logos.php" target="_blank"><img alt="PHP" height="50" width="60" src="https://www.php.net/images/logos/new-php-logo.svg"></a>
