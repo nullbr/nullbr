@@ -4,9 +4,9 @@
 brunoLeite = { 
   greetings: 'Hi there!',
   currentJob: 'Software Maintainer',
-  stacks: ['Ruby', 'PHP', 'Javascript'],
+  stacks: ['Ruby', 'PHP', 'Javascript', 'C++'],
   studying: 'Computer Science and working towards being a Full-Stack developer',
-  status: {intermediate: 'Ruby On Rails', beginner: ['Laravel', 'Docker']},
+  experienceWith: {intermediate: 'Ruby On Rails', beginner: ['Laravel', 'Docker']},
   languages: ['Portuguese', 'English', 'Spanish']
 }
 
@@ -28,7 +28,7 @@ brunoLeite = {
 </div>
 
 ##
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block; vertical-align: middle;">
 
   <h3>Toolbelt <img src="https://cdn-icons-png.flaticon.com/512/5238/5238554.png" alt="Tool Belt" width="30" height="30"></h3>
   <br>
