@@ -20,6 +20,7 @@ brunoLeite = {
 
 ##
 <div align="center">
+  <h3>My Stats</h3>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact)
   
