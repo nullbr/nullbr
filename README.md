@@ -20,8 +20,12 @@ brunoLeite = {
 
 ##
 <div align="center">
-  <a href="https://github.com/nullbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact&theme=github_dark&langs_count=6"/></a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true)  
+
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nullbr)  
 </div>
 
 <br>
