@@ -5,7 +5,7 @@
 
 ```ruby
 brunoLeite = {
-  stacks: ['Ruby', 'Python' 'PHP', 'C++'],
+  stacks: ['Ruby', 'Python', 'PHP', 'C++'],
   studying: 'Computer Science and working towards being a Full-Stack developer',
   experienceWith: {intermediate: 'Ruby On Rails', beginner: ['Laravel', 'Docker']},
   languages: ['Portuguese', 'English', 'Spanish']
