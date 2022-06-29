@@ -1,10 +1,11 @@
 
+## Bruno Leite - Software Developer
+
+### Hi everybody!
 
 ```ruby
-brunoLeite = { 
-  greetings: 'Hi there!',
-  currentJob: 'Software Maintainer',
-  stacks: ['Ruby', 'PHP', 'Javascript', 'C++'],
+brunoLeite = {
+  stacks: ['Ruby', 'Python' 'PHP', 'C++'],
   studying: 'Computer Science and working towards being a Full-Stack developer',
   experienceWith: {intermediate: 'Ruby On Rails', beginner: ['Laravel', 'Docker']},
   languages: ['Portuguese', 'English', 'Spanish']
@@ -40,7 +41,7 @@ brunoLeite = {
 
   <h3>Toolbelt</h3>
   <a href="https://rubyonrails.org" target="_blank"><img alt="Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Py" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"></a>
   <a href="https://www.php.net/download-logos.php" target="_blank"><img alt="PHP" height="50" width="60" src="https://www.php.net/images/logos/new-php-logo.svg"></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
