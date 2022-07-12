@@ -25,9 +25,7 @@ brunoLeite = {
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true)  
-
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nullbr)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true)   
 </div>
 
 <br>
