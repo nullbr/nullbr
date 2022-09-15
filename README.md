@@ -5,9 +5,9 @@
 
 ```ruby
 brunoLeite = {
-  stacks: ['Ruby', 'Python', 'PHP', 'C++'],
-  studying: 'Computer Science and working towards being a Full-Stack developer',
-  experienceWith: {intermediate: 'Ruby On Rails', beginner: ['Laravel', 'Docker']},
+  currently: 'Working as a Ruby On Rails Developer at Fleet',
+  studying: 'Computer Science',
+  frameworks: ['Ruby On Rails', 'Laravel', 'FastAPI'],
   languages: ['Portuguese', 'English', 'Spanish']
 }
 
