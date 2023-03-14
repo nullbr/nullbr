@@ -1,5 +1,5 @@
 
-## [Bruno Leite - Software Developer](www.bruno.buzz)
+## [Bruno Leite - Software Developer](https://bruno.buzz/)
 
 ### Hi everybody!
 
