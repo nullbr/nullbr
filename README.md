@@ -7,20 +7,17 @@
 brunoLeite = {
   currently: 'Working as a Ruby On Rails Developer at Fleet',
   studying: 'Computer Science',
-  stack: ['Ruby On Rails', 'ReactJS', 'PstgreSQL'],
+  stack: ['Ruby On Rails', 'ReactJS', 'PostgreSQL'],
   languages: ['Portuguese', 'English', 'Spanish']
 }
-
 ```
 
-<div align="left">
-  <h3>My places</h3>
+##
+<h3>My places</h3>
   
-  <a href="https://bruno.buzz" target="_blank"><img src="https://user-images.githubusercontent.com/94543524/226052412-a24dcded-e90a-41bf-9d0d-38a02a19e200.png" alt="website" height="30" width="30" ></a>
-  <a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-mariano-leite" height="30" width="50" ></a>
-  <a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" target="_blank" height="30" width="40"></a>
-</div>
-
+<a href="https://bruno.buzz" target="_blank"><img src="https://user-images.githubusercontent.com/94543524/226052412-a24dcded-e90a-41bf-9d0d-38a02a19e200.png" alt="website" height="30" width="30" ></a>
+<a href="https://www.linkedin.com/in/bruno-mariano-leite/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-mariano-leite" height="30" width="50" ></a>
+<a href="mailto:bmarianoleite4@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" target="_blank" height="30" width="40"></a>
 
 ##
 <div align="left">
