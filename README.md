@@ -1,16 +1,19 @@
+<h1>
+  <a href="https://bruno.buzz/" target="_blank">
+    Bruno Leite - Software Developer
+  </a>
+</h1>
 
-## [Bruno Leite - Software Developer](https://bruno.buzz/)
+<h3>Hi everybody!</h3>
 
-### Hi everybody!
-
-```ruby
-brunoLeite = {
-  currently: 'Working as a Ruby On Rails Developer at Fleet',
-  studying: 'Computer Science',
-  stack: ['Ruby On Rails', 'ReactJS', 'PostgreSQL'],
-  languages: ['Portuguese', 'English', 'Spanish']
-}
-```
+<pre>
+  <code>brunoLeite = {
+    title: 'Ruby On Rails Developer',
+    studying: 'Computer Science',
+    stack: ['Ruby On Rails', 'ReactJS', 'PostgreSQL'],
+    languages: ['Portuguese', 'English', 'Spanish']
+  }</code>
+</pre>
 
 ##
 <h3>My places</h3>
@@ -44,4 +47,3 @@ brunoLeite = {
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/></a>
 </div>
-
