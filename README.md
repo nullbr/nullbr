@@ -28,8 +28,8 @@
   
   <a href="https://wakatime.com/@9450441a-ff7b-4805-b841-897d35ef3820"><img src="https://wakatime.com/badge/user/9450441a-ff7b-4805-b841-897d35ef3820.svg" alt="Total time coded since May 18 2022" /></a>
   
-  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact" />
-  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true" />
+  <img style="max-height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbr&layout=compact" />
+  <img style="max-height: 150px" src="https://github-readme-stats.vercel.app/api?username=nullbr&show_icons=true" />
 </div>
 
 ##
