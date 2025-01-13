@@ -37,13 +37,13 @@
 
   <h3>My Toolbelt</h3>
   <a href="https://rubyonrails.org" target="_blank"><img alt="Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></a>
-  <a href="https://www.javascript.com/" target="_blank"><img alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://react.dev/" target="_blank"><img alt="Bruno-React" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg"></a>
   <a href="https://rubyonrails.org" target="_blank"><img alt="RoR" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"></a>
   <a href="https://www.postgresql.org" target="_blank"><img alt="Bruno-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
   <a href="https://www.docker.com/" target="_blank"><img alt="Bruno-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 </div>
